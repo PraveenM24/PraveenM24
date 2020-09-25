@@ -1,6 +1,10 @@
 ### Hello!
 I'm Praveen. I'm a python developer, currently venturing into MERN full stack develpoment.   
 
+
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="400" height="300" align='center'>
+
+
 <!--
 **PraveenM24/PraveenM24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
