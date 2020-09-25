@@ -2,28 +2,11 @@
 I'm Praveen. I'm a python developer, currently venturing into MERN full stack develpoment.   
 
 
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350" height="250" align='center'>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350" height="250" align='center'>
 
 <br/>
 
 ***
-
-<!--
-**PraveenM24/PraveenM24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
-<br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PraveenM24&show_icons=true&theme=dracula)
 
