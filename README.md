@@ -1,8 +1,8 @@
-### Hello!
+### Hello! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" height="30" align='center'>
 I'm Praveen. I'm a python developer, currently venturing into MERN full stack develpoment.   
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" height="250" align='center'>
+
 
 <br/>
 
