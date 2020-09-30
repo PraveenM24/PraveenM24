@@ -2,7 +2,7 @@
 I'm Praveen. I'm a python developer, currently venturing into MERN full stack develpoment.   
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350" height="250" align='center'>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<img src="https://gph.is/g/EJNJnox" width="350" height="250" align='center'>
 
 <br/>
 
