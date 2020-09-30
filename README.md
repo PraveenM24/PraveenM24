@@ -7,7 +7,7 @@ I'm Praveen. I'm a python developer, currently venturing into MERN full stack de
 
 ***
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PraveenM24&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PraveenM24&show_icons=true)
 
 ***
 
