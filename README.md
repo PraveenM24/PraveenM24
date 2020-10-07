@@ -5,8 +5,9 @@ I'm Praveen. I'm a python developer, currently venturing into MERN full stack de
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PraveenM24&show_icons=true" width="300" height="150" >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenM24&layout=compact&hide=html" alt="PraveenM24" width="200" height="150" >
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PraveenM24&show_icons=true" width="300" height="200" > 
+<br/>
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenM24&layout=compact&hide=html" alt="PraveenM24" width="400" height="250" >
 
 
 
