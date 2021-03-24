@@ -1,5 +1,5 @@
 ### Hello! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" height="24" align="top">
-I'm Praveen. I'm a Full Stack Developer (MERN) and a python developer. Checkout my website <a href="https://praveenm.tech">praveenm.tech</a>
+I'm Praveen. I'm a Full Stack Developer (MERN) and a python developer. Checkout my website <a href="https://praveenm.tech">praveenm.tech</a>.
 
 &emsp;&emsp;&emsp;<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350" height="260" align="center">
 
