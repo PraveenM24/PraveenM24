@@ -1,10 +1,13 @@
-### Hello! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" height="24" align="top">
-I'm Praveen. I'm a Full Stack Developer (MERN) and a python developer. Checkout my website <a href="https://praveenm.tech">praveenm.tech</a>.
+<h3 align="center"> Hello, </h3>
+<p align="center">
+  I'm Praveen. I'm a full stack developer.<br> I also create native apps.<br> Checkout my website <a href="https://praveenm.tech">praveenm.tech</a> for more information.
+</p>
 
-&emsp;&emsp;&emsp;<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350" height="260" align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PraveenM24&show_icons=true"  > 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenM24&layout=compact&hide=html" alt="PraveenM24" width="495"  >
+<h3 align="center"> My Tech Stack </h3>
+<h3> <img src="https://github.com/PraveenM24/PraveenM24/blob/master/Techstack.png"> </h3> 
 
 ###### Social Handles: <a href="https://linktr.ee/Praveenm"><img src="https://img.icons8.com/color/452/linktree.png" width="27" height="27" align="center"></a> 
-  
+
+</p>
