@@ -6,8 +6,8 @@
 <br>
 
 <h3 align="center"> 
-  My Tech Stack 
-  <img src="https://github.com/PraveenM24/PraveenM24/blob/master/Techstack.png">
+  My Tech Stack <br> 
+  <img src="https://github.com/PraveenM24/PraveenM24/blob/master/Techstack.png" width="400" height="400"align="center">
 </h3>
 
 <br>
